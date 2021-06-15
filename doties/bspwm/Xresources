@@ -47,7 +47,7 @@ URxvt*colorUL:      	 #87afd7
 *.cursorColor:  #ffffff
 
 ! black
-*.color0:       #ffffff
+*.color0:       #1f1921
 *.color8:       #ff00d2
 
 ! red
